@@ -1,0 +1,17 @@
+ Volume in drive D is DATA
+ Volume Serial Number is B0D8-D6FE
+
+ Directory of D:\Jenkins
+
+26-05-2018  02:06    <DIR>          .
+26-05-2018  02:06    <DIR>          ..
+25-05-2018  02:41               673 Hello.class
+25-05-2018  02:02               148 Hello.java
+25-05-2018  14:17               235 Jenkin Command.txt
+23-05-2018  22:37    <DIR>          jenkins-2.107.3
+23-05-2018  22:20       122,088,475 jenkins-2.107.3.zip
+23-05-2018  23:17         3,302,491 jenkins-cli.jar
+26-05-2018  02:06                 0 test1.txt
+25-05-2018  02:38               635 text.txt
+               7 File(s)    125,392,657 bytes
+               3 Dir(s)  759,674,351,616 bytes free
