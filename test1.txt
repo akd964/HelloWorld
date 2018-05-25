@@ -15,3 +15,5 @@
 25-05-2018  02:38               635 text.txt
                7 File(s)    125,392,657 bytes
                3 Dir(s)  759,674,351,616 bytes free
+
+Hi Amit,how r u?
